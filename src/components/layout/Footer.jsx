@@ -1,3 +1,6 @@
+"use client";
+
+
 import Logo from '../../assets/logo.png';
 
 export default function Footer() {
